@@ -1,46 +1,46 @@
 # flipecastanheira-rgb
 
-# 👋 Olá, eu sou o Filipe Castanheira
+# 👋 Hi, I'm Filipe Castanheira
 
-🎯 Estudante de Cibersegurança e Redes  
-🔐 Focado em Linux, Redes, Segurança Ofensiva e Defensiva  
-📡 A aprofundar CCNA (Jeremy’s IT Lab)  
-🛡️ Bootcamp de Cibersegurança (DIO)  
-💻 Laboratórios práticos (LabEx)
-
----
-
-## 🚀 O que estou a estudar agora
-- Redes (CCNA – Jeremy’s IT Lab)
-- Linux e administração de sistemas
-- Cibersegurança ofensiva e defensiva
-- Python para automação e segurança
-- IA aplicada à segurança
+🎯 Cybersecurity and Networking Student  
+🔐 Focused on Linux, Networking, Offensive and Defensive Security  
+📡 Studying CCNA (Jeremy’s IT Lab)  
+🛡️ Cybersecurity Bootcamp (DIO)  
+💻 Hands‑on Labs (LabEx)
 
 ---
 
-## 🧪 Projetos e Laboratórios
-Aqui vais encontrar:
-- Scripts Python para segurança
-- Varreduras e análises Nmap
-- Projetos do bootcamp DIO
-- Laboratórios do LabEx
-- Notas e configs do CCNA
+## 🚀 What I'm Currently Learning
+- Networking (CCNA – Jeremy’s IT Lab)
+- Linux and system administration
+- Offensive and defensive cybersecurity
+- Python for automation and security
+- AI applied to cybersecurity
 
 ---
 
-## 📂 Repositórios principais
-- **CCNA** → notas, configs, diagramas  
-- **LabEx** → laboratórios práticos  
-- **Cibersegurança** → Linux, Python, Nmap, projetos  
-- **Portfólio** → projetos completos e documentados  
+## 🧪 Projects & Labs
+Here you will find:
+- Python scripts for security automation  
+- Nmap scans and analysis  
+- DIO cybersecurity bootcamp projects  
+- LabEx practical labs  
+- CCNA notes, configs and diagrams  
 
 ---
 
-## 📫 Contacto
-- LinkedIn: https://www.linkedin.com/in/filipecastanheira/
-- Email: *  filipecastanheira@gmail.com
+## 📂 Main Repositories
+- **CCNA** → notes, configs, diagrams  
+- **LabEx** → practical labs and documentation  
+- **Cybersecurity** → Linux, Python, Nmap, security projects  
+- **Portfolio** → complete and documented projects  
 
 ---
 
-💡 *A aprender todos os dias, com foco e disciplina.*
+## 📫 Contact
+- **LinkedIn:** https://www.linkedin.com/in/filipecastanheira/  
+- **Email:** filipecastanheira@gmail.com  
+
+---
+
+💡 *Learning every day with discipline and long‑term focus.*
